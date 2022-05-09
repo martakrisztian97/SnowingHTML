@@ -1,1 +1,1 @@
-# Havazás a HTML oldalon
+# Havazás HTML oldalakra
